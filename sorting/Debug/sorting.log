@@ -1,0 +1,9 @@
+﻿  highscoretable.cpp
+c:\users\s189071\source\repos\sorting\sorting\highscoretable.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\s189071\source\repos\sorting\sorting\highscoretable.cpp(79): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  merge.cpp
+c:\users\s189071\source\repos\sorting\sorting\merge.cpp(26): warning C4018: '>=': signed/unsigned mismatch
+c:\users\s189071\source\repos\sorting\sorting\merge.cpp(26): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  sorting.vcxproj -> C:\Users\s189071\source\repos\sorting\Debug\sorting.exe
